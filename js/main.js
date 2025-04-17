@@ -64,19 +64,22 @@ array2_rect1_x = [
     '60',
     '41',
     '58',
-    '66'
+    '66',
+    '0'
 ];
 array2_rect1_y = [
     '8',
     '29',
     '51',
-    '72'
+    '72',
+    '0'
 ];
 array2_rect1_width = [
     '47',
     '37',
     '44',
-    '90'
+    '90',
+    '0'
 ];
 
 window.addEventListener('resize', function(event) {
